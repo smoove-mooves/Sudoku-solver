@@ -2,6 +2,7 @@
 This program is a Sudoku puzzle solver that presents the user with a customtkinter GUI.
 
 How to use the program:
+
 -Step 1: Run the program's main.py file and enter the given numbers from the puzzle you are trying to solve into the grid.
 -Step 2: Click "Submit Puzzle". This stores the given numbers into a 2D list.
 -Step 3: Click "Solve Puzzle".
