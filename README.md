@@ -4,8 +4,11 @@ This program is a Sudoku puzzle solver that presents the user with a customtkint
 How to use the program:
 
 -Step 1: Run the program's main.py file and enter the given numbers from the puzzle you are trying to solve into the grid.
+
 -Step 2: Click "Submit Puzzle". This stores the given numbers into a 2D list.
+
 -Step 3: Click "Solve Puzzle".
+
 -Step 4: If you have another puzzle you would like to solve, click "Clear Puzzle" and start over at step 2.
 
 # Contents of the files
